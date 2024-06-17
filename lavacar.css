@@ -66,3 +66,26 @@ nav a:hover{
         font-size: 30px;
         font-weight: bold;
     }
+
+    .produtos-descricao{
+        font-size: 18px;
+    }
+    
+    .produtos li:active{
+        font-size: 40px;
+    }
+    .produtos-preco{
+        font-size: 22px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    footer{
+        padding: 0px;
+        text-align: center;
+        background: black;
+    }
+    .copyright{
+        color: white;
+        font-size: 13px;
+        margin: 20px 0 20px;
+    }
